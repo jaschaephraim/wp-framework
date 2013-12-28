@@ -2,7 +2,7 @@
 
 A framework for my personal Wordpress projects.
 
-Because it is intended mainly for my personal use, it may not be obvious how to make use of these files. However, I have made an effort to provide inline documentation to allow anyone to use it.
+Because it is intended mainly for my personal use, it may not be obvious how to make use of these files. However, I have made an effort to provide inline documentation to allow anyone to try.
 
 ## Files
 
